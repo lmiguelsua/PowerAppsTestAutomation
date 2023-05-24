@@ -11,7 +11,7 @@ resources:
       name: lmiguelsua/WeatherForecast
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
-      endpoint: github.com lmiguelsua
+      endpoint: github.com_lmiguelsua
 
 parameters:
  - name: image
